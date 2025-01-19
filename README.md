@@ -20,3 +20,5 @@
 * HTML
 * CSS
 * JavaScript
+
+Você pode assistir as videos aulas desse projeto através [DESSE LINK](https://cursos.alura.com.br/course/javascript-threads-requisicoes-simultaneas)
